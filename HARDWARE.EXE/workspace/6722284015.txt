@@ -1,0 +1,1 @@
+{"Team Check":true,"Show FOV":true,"Smoothness":"4","ESP":true,"FOV Radius":"800","Tracers":true,"Aimbot":true}
